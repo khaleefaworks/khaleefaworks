@@ -8,18 +8,18 @@
 
 ---
 
-### 🧠 Domains
+###  Domains
 
 GenAI · Machine Learning · Computer Vision · NLP · RAG · Automation · Full-Stack Engineering
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 
 **Languages** · Python · TypeScript · JavaScript · C++ · SQL  
 **ML/DL** · PyTorch · TensorFlow · LangChain · HuggingFace · OpenAI · Scikit-learn  
 **Frontend** · React · Next.js · HTML · CSS · Tailwind  
 **Backend** · Node.js · FastAPI · Django · Express · REST APIs  
 
-### 🔧 Infrastructure & Tools
+###  Infrastructure & Tools
 
 Docker · AWS · PostgreSQL · MongoDB · Redis · Git · Linux · CI/CD · Nginx
 
