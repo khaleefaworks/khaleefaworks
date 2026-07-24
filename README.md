@@ -3,25 +3,16 @@
 </h1>
 
 <p align="center">
-  <em>Building end-to-end AI systems — from training models and engineering prompts to shipping production full-stack applications. Passionate about computer vision, generative AI, and open-source.</em>
+  <em>I build systems that think, see, and understand.</em>
 </p>
 
 ---
 
-### 🧠 Domains
+I architect **AI-powered systems** from the ground up — **RAG pipelines** that retrieve and reason over documents with precision, **LLM agents** that automate complex decision workflows, and **computer vision models** that interpret the visual world. Every project is built with production reliability in mind and shared as open-source whenever possible.
 
-GenAI · Machine Learning · Computer Vision · NLP · RAG · Automation · Full-Stack Engineering
+**Currently exploring:** multi-modal RAG over unstructured data, agentic orchestration frameworks, vision-language models, and practical paths to production-grade GenAI.
 
-### 💻 Languages & Frameworks
-
-**Languages** · Python · TypeScript · JavaScript · C++ · SQL  
-**ML/DL** · PyTorch · TensorFlow · LangChain · HuggingFace · OpenAI · Scikit-learn  
-**Frontend** · React · Next.js · HTML · CSS · Tailwind  
-**Backend** · Node.js · FastAPI · Django · Express · REST APIs  
-
-### 🔧 Infrastructure & Tools
-
-Docker · AWS · PostgreSQL · MongoDB · Redis · Git · Linux · CI/CD · Nginx
+**Driven by:** the belief that AI should be accessible, explainable, and genuinely useful — not just powerful.
 
 ---
 
@@ -33,14 +24,10 @@ Docker · AWS · PostgreSQL · MongoDB · Redis · Git · Linux · CI/CD · Ngin
   <a href="https://github.com/khaleefaworks">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abdul.k@noveloffice.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </p>
 
 <div align="center">
   <sub>
-    <strong>📍 Bangalore</strong> &nbsp;·&nbsp; <strong>🏢 NovelOffice</strong> &nbsp;·&nbsp; <strong>⚡ Building open-source AI tools</strong>
+    <strong>📍 Bangalore</strong> &nbsp;·&nbsp; <strong>🏢 NovelOffice</strong> &nbsp;·&nbsp; <strong>⚡ Open-source AI</strong>
   </sub>
 </div>
