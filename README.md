@@ -1,33 +1,54 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=3A9CFF&center=true&vCenter=true&width=500&lines=Abdul+Rab+khaleefa;AI+%26+Full-Stack+Engineer;GenAI+%7C+ML+%7C+CV+%7C+SDE" alt="typing animation">
-</h1>
+<div align="center">
+
+# Abdul Rab Khaleefa
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=3A9CFF&center=true&vCenter=true&repeat=true&width=950&lines=AI+Engineer;Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI;Computer+Vision+%7C+Deep+Learning;Python+Backend+Engineer;Turning+Ideas+into+Intelligent+Products" />
+
+<p>
+Building intelligent software that thinks, learns, and creates real-world impact.
+</p>
+
+<p>
+<a href="https://linkedin.com/in/abdul-rab-khaleefa-36859b2a2">LinkedIn</a>   •   <a href="mailto:[khaleefa.engineer@gmail.com](mailto:khaleefa.engineer@gmail.com)">Gmail</p>
+
+</div>
+
+---
+
+## About
+
+I am an AI Engineer passionate about building intelligent software that solves real-world problems. My work revolves around designing and developing production-ready AI systems powered by Large Language Models, Retrieval-Augmented Generation (RAG), AI agents, and Computer Vision. I enjoy taking ideas from research to deployment, combining modern AI with scalable backend engineering to build systems that are reliable, explainable, and practical. Every project is an opportunity to learn, push boundaries, and create technology that people genuinely find useful.
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <em>I build systems that think, see, and understand.</em>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="42" /></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="42" /></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="42" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" height="42" /></a>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="42" /></a>
+<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="42" /></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="42" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="42" /></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" height="42" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="42" /></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="42" /></a>
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="42" /></a>
 </p>
 
 ---
 
-I architect **AI-powered systems** from the ground up — **RAG pipelines** that retrieve and reason over documents with precision, **LLM agents** that automate complex decision workflows, and **computer vision models** that interpret the visual world. Every project is built with production reliability in mind and shared as open-source whenever possible.
+## Philosophy
 
-**Currently exploring:** multi-modal RAG over unstructured data, agentic orchestration frameworks, vision-language models, and practical paths to production-grade GenAI.
-
-**Driven by:** the belief that AI should be accessible, explainable, and genuinely useful — not just powerful.
+> **Code is easy to write. Intelligence is hard to engineer.**
+> I strive to build AI that doesn't just generate answers—it understands context, reasons through complexity, and delivers value that people can trust. My goal isn't simply to create software, but to design systems that are thoughtful, scalable, and built to stand the test of real-world use.
 
 ---
-
-<p align="center">
-  <a href="https://linkedin.com/in/abdul-rab-khaleefa-36859b2a2">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/khaleefaworks">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
 
 <div align="center">
-  <sub>
-    <strong>📍 Bangalore</strong> &nbsp;·&nbsp; <strong>🏢 NovelOffice</strong> &nbsp;·&nbsp; <strong>⚡ Open-source AI</strong>
-  </sub>
+
+*"The future belongs to those who build it."*
+
 </div>
